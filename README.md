@@ -1,8 +1,8 @@
 # twoToDoList
-├─react_front                  //  前端React源代码
-├─todo_front                  // 前端Vue源代码
-├─todolist                      // 后端JavaSpringBoot源代码
-├─java_todo.sql              // 数据库结构
+├─react_front                   //  前端React源代码  
+├─todo_front                    // 前端Vue源代码  
+├─todolist                      // 后端JavaSpringBoot源代码  
+├─java_todo.sql                // 数据库结构  
 └─源代码包结构.txt
 
 起因简述：
