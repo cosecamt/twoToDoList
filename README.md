@@ -1,4 +1,9 @@
 # twoToDoList
+├─react_front                  //  前端React源代码
+├─todo_front                  // 前端Vue源代码
+├─todolist                      // 后端JavaSpringBoot源代码
+├─java_todo.sql              // 数据库结构
+└─源代码包结构.txt
 
 起因简述：
 基于对React和JavaSpringBoot的好奇，希望先完成简单地应用起来获取直观感受。分两阶段进行：先使用Vue+Java来实现（vue我已较为熟悉）对Java部分的学习，再使用React+Java来熟悉React。不过vue的部分既然也写了，就一起放上来吧。
